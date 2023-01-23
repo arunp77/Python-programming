@@ -3,7 +3,7 @@
 This repository is for fundamentals of python programming language. 
 
 
-![](https://img.shields.io/github/languages/top/arunsinp/Python-programming)
+![](https://img.shields.io/github/languages/top/arunsinp/Python-programming) ![](https://img.shields.io/github/repo-size/arunsinp/Python-programming)
 
 
 Plan of the repository is shown in the figure:
