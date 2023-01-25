@@ -1,5 +1,8 @@
 # Python Programming fundamental
 
+Access the notebook through Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arunsinp/Python-programming/HEAD)
+
 This repository is for fundamentals of python programming language. 
 
 
