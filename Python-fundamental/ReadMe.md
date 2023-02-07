@@ -9,7 +9,9 @@ I have also two additional python notebook, with details on
 - NUMPY
 - google-colab-help.ipynb
 
-I love to run all these codes on [Google Colaboratory](https://colab.research.google.com). Since, I have not used the [Binder](https://mybinder.org/) or [Kaggle](https://www.kaggle.com/) or on my local device, I have removed the parts where `import jovian` section was given in the notebooks. I always prefere to run my code either on google colab or on my local system. To run on local system and then upload it to the github, I use git. I have also added a repository to learn fundamentals of git (please see [my git repository](https://github.com/arunsinp/Learning-git)).
+I love to run all these codes on [Google Colaboratory](https://colab.research.google.com). Since, I have not used[Binder](https://mybinder.org/) or [Kaggle](https://www.kaggle.com/)on my local device, I have removed the parts where `import jovian` section was given in the notebooks. I always prefere to run my code either on google colab or on my local system. To run on local system, I use `VSCode` IDE. 
+
+How to push your code to Github via git can be found at [my git repository](https://github.com/arunsinp/Learning-git).
 
 
 ## Comment
